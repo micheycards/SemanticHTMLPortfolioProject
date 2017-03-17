@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #F5F5F5;
+  background: #fff;
   color: #444;
   font-family: "Helvetica Neue", Arial, serif;
   font-size: 22px;
@@ -131,7 +131,7 @@ a.active {
  */
 
 .skills {
-  background: #e91e63;
+  background: #f00;
   color: white;
 }
 
@@ -145,3 +145,4 @@ a.active {
 }
 .footer p, footer p {
   font-size: 14px;
+}
